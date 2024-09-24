@@ -1,0 +1,1 @@
+SELECT * FROM bus_details3Seats_Available
